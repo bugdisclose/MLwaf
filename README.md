@@ -1,7 +1,7 @@
 # MLwaf
 Web application firewall driven by the machine learning
 
-<img src="https://raw.githubusercontent.com/developersatyendra/MLwaf/master/logo%20copy%20copy.JPG" width="400" height="400">
+<img src="https://raw.githubusercontent.com/developersatyendra/MLwaf/master/logo%20copy%20copy.JPG" width="200" height="200">
 
 ## Web Application Firewall
 <img src="https://github.com/developersatyendra/MLwaf/blob/master/Firewall-820x300.jpg?raw=true" width="900" height="300">
