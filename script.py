@@ -1,10 +1,3 @@
-'''
-FWAF - Machine Learning driven Web Application Firewall
-Author: Faizan Ahmad
-Performance improvements: Timo Mechsner
-Website: http://fsecurify.com
-'''
-
 from sklearn.feature_extraction.text import TfidfVectorizer
 import os
 from sklearn.cross_validation import train_test_split
